@@ -10,7 +10,7 @@
 
     <PackageId>NameAnalyzer</PackageId>
     <Description>Namespace based type name matching to given pattern analyzer.</Description>
-    <PackageVersion>1.0.0-rc1</PackageVersion>
+    <PackageVersion>1.0.0</PackageVersion>
     <Authors>jaqra</Authors>
     <PackageLicenseUrl>https://raw.githubusercontent.com/jaqra/NameAnalyzer/master/LICENSE</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/jaqra/NameAnalyzer</PackageProjectUrl>
